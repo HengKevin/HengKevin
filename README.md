@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on api and machine learning<br>👯 I’m looking to collaborate on microservice architecture and end-to-end machine learning<br>🤝 I’m looking for help with honing my skill in machine learning and AI<br>🌱 I’m currently learning microservice architecture
 
 
 # 💻 Tech Stack:
